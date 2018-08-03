@@ -292,13 +292,13 @@
     .detail{
       ul{
         display: inline-block;
-        width: 28.63%;//10.18rem;
+        width: 33.63%;//10.18rem;
         margin-right: 2.96rem;
         text-align: left;
         vertical-align: top;
         li{
           font-family: PingFangSC-Regular;
-          font-size: 0.44rem;//24px;
+          font-size: 0.37rem;
           color: #FFFFFF;
           letter-spacing: 0;
           line-height: 40px;

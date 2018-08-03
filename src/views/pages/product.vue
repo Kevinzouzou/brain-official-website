@@ -181,6 +181,13 @@
         <div class="detail">
           <span>在线物管+自助服务，提高用户体验，降低物业管理成本。</span>
         </div>
+        <div class="text-disc">
+          <span class="fir">在APP上提交报修申请</span>
+          <span class="sec">通过APP在线办理月卡</span>
+          <span class="th">门禁通道人脸识别通行</span>
+          <span class="fou">在门禁通道设备上扫二位码通行</span>
+          <span class="fiv">在线缴纳停车费物业管理费/月卡费</span>
+        </div>
         <div class="usImg"></div>
       </div>
       <div class="user-contact">
@@ -668,6 +675,36 @@
         transform: translateX(-50%);
       }
     }
+    .text-disc{
+      position: absolute;
+      bottom: 15.8rem;
+      height: 3.06rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 25.65rem;
+      span{
+        font-family: PingFangSC-Light;
+        font-size: 20px;
+        color: #333333;
+        letter-spacing: 0;
+        display: inline-block;
+        vertical-align: text-top;
+        width: 120px;
+        &.fir{margin: 34px 105px 0 0;}
+        &.sec{margin: 88px 95px 0 0;}
+        &.th{
+          margin: 29px 123px 0 0;
+        }
+        &.fou{
+          width: 160px;
+          margin-right: 136px;
+        }
+        &.fiv{
+          width: 170px;
+          margin: 113px 44px 0 0;
+        }
+      }
+    }
     .usImg{
       position: absolute;
       bottom: 1.67rem;
@@ -677,6 +714,7 @@
       height: 16.19rem;
       background: url(../../assets/p-user-selfSer.png) no-repeat center center;
       background-size: 25.65rem 16.19rem;
+
     }
   }
   .user-contact{
