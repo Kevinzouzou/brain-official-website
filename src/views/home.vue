@@ -37,8 +37,8 @@
         </div>
       </div>
       <div class="ownerShip">
-        <span>Copyright © 2018 Apple Inc. 保留所有权利。</span>
-        <span>京公安网安备 11010502008968 京ICP备10214630</span>
+        <!--<span>Copyright © 2018 Apple Inc. 保留所有权利。</span>-->
+        <!--<span>京公安网安备 11010502008968 京ICP备10214630</span>-->
       </div>
     </el-row>
   </div>
