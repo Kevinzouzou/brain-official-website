@@ -29,7 +29,7 @@
             <img src="../assets/weipin.png">
           </li>
           <li>深圳微品致远信息科技有限公司</li>
-          <li>广东省深圳市南山区科技园金融基地1栋4楼    0755-12345678</li>
+          <li>广东省深圳市南山区科技园金融基地1栋4楼    0755-86312313</li>
         </ul>
         <div class="qrCode">
           <span class="qr"></span>
@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="ownerShip">
-        <!--<span>Copyright © 2018 Apple Inc. 保留所有权利。</span>-->
+        <span>Copyright © 2018 微品致远 保留所有权利。</span>
         <!--<span>京公安网安备 11010502008968 京ICP备10214630</span>-->
       </div>
     </el-row>

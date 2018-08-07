@@ -59,20 +59,26 @@
           return {
             list: [
               {
-                title:'松山湖大学城',
-                content:'松山湖大学城简介松山湖大学城简介松山湖大学城简介',
-                img: 'https://qiniu.epipe.cn/5456575529551388672?imageslim&imageView2/1/w/750/h/360'
+                title:'松湖智谷',
+                content:'广东省东莞市松湖智谷智慧园区：给企业一个高能的家',
+                img: require('../../assets/case-shzg.jpg')
               },
               {
-                title:'大学城',
-                content:'松山湖大学城简介松山湖大学城简介松山湖大学城简介',
-                img: 'https://qiniu.epipe.cn/5430983074181545984?imageslim&imageView2/1/w/750/h/360'
+                title:'金领谷',
+                content:'金领谷智慧园区：南上海科创核心基地，产业聚集，高效办公',
+                img: require('../../assets/case-jlgz.jpg')
               },
               {
-                title:'松山湖大学',
-                content:'松山湖大学城简介松山湖大学城简介松山湖大学城简介',
-                img: 'https://qiniu.epipe.cn/5464226412548325376?imageslim&imageView2/1/w/750/h/360'
-              }
+                title:'创星汇科技园',
+                content:'湖北省武汉光谷创星汇科技园：构建“大众创业 万众创新”实践基地',
+                img: require('../../assets/case-cxh.jpg')
+              },
+              {
+                title:'宝能科技园',
+                content:'广东省深圳市宝能科技园：商业、办公、酒店、公寓于一体的地标性城市商务综合体群',
+                // img: 'https://qiniu.epipe.cn/5464226412548325376?imageslim&imageView2/1/w/750/h/360'
+                img: require('../../assets/case-bn.jpg')
+              },
             ]
           }
         },
